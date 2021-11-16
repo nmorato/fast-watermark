@@ -11,3 +11,8 @@ Add watermarks to images in batch and quickly. We use ImageMagick to compose ima
 
 You can change settings editing this line
 <code> composite -dissolve 90% -gravity southeast -geometry +40+30</code>
+
+A detailed use, here: 
+
+https://www.ikkaro.com/anadir-marca-de-agua-rapidamente/ (spanish)
+https://www.ikkaro.com/en/add-watermark-quickly/ (english)
